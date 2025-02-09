@@ -1,6 +1,6 @@
 # Odin_Landing_Page
 
-Hola! This is my second Odin project of the Foundations course.
+Hola! [This is my second Odin project of the Foundations course.](https://mp-v99.github.io/Odin_Landing_Page/)
 
 It will consist of applying all of the HTML & CSS I've learned so far. From div containers to ul's and images.
 
@@ -11,3 +11,6 @@ In this project, I have leveraged these tools to make a beautiful landing page w
 "AI Job Replacement Insurance"
 
 A mock landing page with insurance plans for when Skynet finally takes all our jobs.
+
+![Landing Page](img/screenshot)
+
